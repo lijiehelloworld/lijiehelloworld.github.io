@@ -21,7 +21,7 @@ git push -f git@github.com:lijiehelloworld/lijiehelloworld.github.io.git main:gh
 
 
 # 如果发布到 https://<USERNAME>.github.io/<REPO>
-# git push -f git@github.com:messiahhh/blog.git master:gh-pages
-# git push -f https://${access_token}@github.com/Dcose/dcose.github.io.git master:gh-pages
+# git push -f git@github.com:lijiehelloworld/website.git main:gh-pages
+# git push -f https://${access_token}@github.com/Dcose/dcose.github.io.git main:gh-pages
 
 cd -
